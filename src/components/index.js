@@ -10,6 +10,8 @@ import Contact from './Contact';
 
 export {
 
+
+Hero,
   Navbar,
   About,
   Tech,
