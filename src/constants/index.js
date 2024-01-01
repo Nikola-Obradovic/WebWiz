@@ -54,10 +54,7 @@ const services = [
     title: "Iskustvo",
     icon: backend,
   },
-  {
-    title: "Uspjeh",
-    icon: creator,
-  },
+
 ];
 
 const technologies = [
