@@ -21,7 +21,7 @@ const FeedbackCard = ({
   >
 
     <div className="mt-1">
-    <h3 className="text-white text-[28px] font-black text-center">{title}</h3>
+   
       <p className="text-white tracking-wider text-[18px] mt-4">{testimonial}</p>
 
       <div className="mt-7 flex justify-between items-center gap-1">
