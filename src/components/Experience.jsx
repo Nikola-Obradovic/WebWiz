@@ -60,9 +60,7 @@ const Experience = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={`${styles.sectionSubText} text-center`}>
-         
-        </p>
+      
         <h2 className={`${styles.sectionHeadText} text-center`}>
         Našim klijentima obezbjeđujemo najkvalitetnije!
         </h2>
